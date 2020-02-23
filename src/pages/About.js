@@ -13,7 +13,7 @@ function About() {
       <Container style={{ marginTop: 30 }}>
         <Row>
           <Col size="md-12">
-            <h2>See the complete company diretory, sort by name or search by name</h2>
+            <h2>All Company Directory  -  Sort and Search by Employee Name</h2>
           </Col>
         </Row>
       </Container>

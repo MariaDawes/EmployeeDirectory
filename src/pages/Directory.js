@@ -7,7 +7,7 @@ import List from "../components/List";
 
 
 const employeeArray = [
-  { id: 1, name: 'Jane Wayne', email: 'janewayne@aaa.com', phone: '(775)763-8844', city: 'Austin', image: 'http://www.businessnewsdaily.com/images/i/000/004/577/original/female-executive.jpg?interpolation=lanczos-none&fit=around%7C300:200&crop=300:200;*,*' },
+  { id: 1, name: 'Anne Wayne', email: 'janewayne@aaa.com', phone: '(775)763-8844', city: 'Austin', image: 'http://www.businessnewsdaily.com/images/i/000/004/577/original/female-executive.jpg?interpolation=lanczos-none&fit=around%7C300:200&crop=300:200;*,*' },
   { id: 2, name: 'Maria Crystal', email: 'mariacrystal@aaa.com', phone: '(555)565-5555', city: 'Boston', image: 'https://irp-cdn.multiscreensite.com/6f9f0abd/dms3rep/multi/tablet/business%20woman-face-600x450.jpg' },
   { id: 3, name: 'John Rodriguez', email: 'johnrodriguez@aaa.com', phone: '(775)763-8832', city: 'Austin' , image: 'https://www.intheblack.com/~/media/intheblack/allimages/inpractice/2017/man-mask-happy-sad-face.jpg' },
   { id: 4, name: 'Greta Gatsby', email: 'gretagatsby@aaa.com', phone: '(555)555-55533', city: 'Dublin' , image: 'http://media.buzzle.com/media/images-en/gallery/womens-fashion/eyeglass/900-178797762-business-woman-with-eyeglasses.jpg' },
