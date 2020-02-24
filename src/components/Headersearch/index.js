@@ -1,12 +1,12 @@
 import React from "react";
 import "./style.css";
 
-function Header() {
+function Headersearch() {
   return (
-    <header className="header">
+    <header className="headersearch">
       <h1>Employee Directory - Search by name</h1>
     </header>
   );
 }
 
-export default Header;
+export default Headersearch;

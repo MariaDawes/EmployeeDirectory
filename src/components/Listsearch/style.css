@@ -1,9 +1,9 @@
-.headersearch {
-  background:#4a5b88;
+.headersort {
+  background: #4a5b88;
   height: 200px;
 }
 
-.headersearch h1 {
+.headersort h1 {
   margin: 0;
   padding-top: 75px;
   text-align: center;
