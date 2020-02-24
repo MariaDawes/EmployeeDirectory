@@ -1,6 +1,6 @@
 // import React, { Component } from "react";
 
-import React from "react";
+import React, {useState} from "react";
 import Headersearch from "../components/Headersearch";
 import Searchform from "../components/Searchform";
 import Listsearch from "../components/Listsearch";
@@ -20,20 +20,36 @@ const employeeArraysearch = [
   { id: 10, name: 'Leonardo Cabo', email: 'leonardocabo@aaa.com', phone: '(775)773-8844', city: 'Austin' , image: 'https://3.bp.blogspot.com/-_4WEj_94u_s/WHuVTWhu2QI/AAAAAAAATbQ/6m5CHrhy3fo_k7zklVmyvAitUuAUb9JnwCLcB/s1600/bow-tie-smiley.png' }  
 ];
 
-// function SearchArray(employeeArraysearchresult) {
-//       return employeeArraysearch.name == 
 
-// }
+
+
+
 
 
 
 
 function Search() {
+
+  const [thename, setThename] = useState("");
+  
+  const handleInputChange = event => {
+    // Destructure the name and value properties off of event.target
+    // Update the appropriate state
+    const { value } = event.target;
+    setThename(value);
+
+  };
+  
+const getFiltered = () => {
+  return employeeArraysearch.filter(employee => employee.name == thename)
+  }
+
+
   return (
     <div>
       <Headersearch />
-      <Searchform />
-      <Listsearch employeeArraysearch={employeeArraysearch} />;
+      <Searchform handleInputChange={handleInputChange} />
+      <Listsearch employeeArraysearch={getFiltered()} />;
     </div>
   );
 }

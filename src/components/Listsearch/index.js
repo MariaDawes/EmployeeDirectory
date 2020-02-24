@@ -8,10 +8,10 @@ function Listsearch(props) {
         <li className="list-group-item" key={item.id}>
         <img className="img-fluid" alt="Smiley" src={item.image}></img>
         <h3>{item.name}</h3> 
-        <h5>Email: {item.email}</h5>, ' '
-        <h5>City: {item.city}</h5>, ' '
-        <h5>Phone: {item.phone}</h5>, ' '
-        <h5>Employee id: {item.id}</h5>
+        <h5>Email: {item.email}</h5>
+        <h5>City: {item.city}</h5>
+        <h5>Phone: {item.phone}</h5> 
+                <h5>Employee id: {item.id}</h5>
        </li>
       ))}
     </ul>
