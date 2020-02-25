@@ -26,14 +26,22 @@ https://github.com/MariaDawes/EmployeeDirectory
 ![alt text](./src/screenshots/firstpage.png "FirstPage")
 ![alt text](./src/screenshots/directory.png "Directory")
 ![alt text](./src/screenshots/sort.png "Sort")
-![alt text](./src/screenshots/search.png "Search")
 ![alt text](./src/screenshots/searchlist.png "Search")
-
-
+![alt text](./src/screenshots/search.png "Search")
 
 # Test
   * Pages navigation tests were done. 
   * List, sort and search functionality tested. 
+  * Test search with the following names:
+      * Zena Wayne
+      * Maria Crystal
+      * John Rodriguez
+      * Greta Gatsby
+      * Mary Jones
+      * Melina Dawes
+      * Newton Acosta
+      * Sonia do Cabo
+      * Leo do Cabo
 
 # Author
 Maria Dawes-Tedesco
