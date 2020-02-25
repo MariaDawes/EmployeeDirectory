@@ -23,14 +23,12 @@ https://github.com/MariaDawes/EmployeeDirectory
 
 
 # Screenshots
-![alt text] (./screenshots/firstpage.png "FirstPage")
-![alt text] (./screenshots/directory.png "FirstPage")
-![alt text] (./screenshots/directory2.png "FirstPage")
-![alt text] (./screenshots/sort.png "FirstPage")
-![alt text] (./screenshots/sort2.png "FirstPage")
-![alt text] (./screenshots/search.png "FirstPage")
-
-
+![alt text](./screenshots/firstpage.png "FirstPage")
+![alt text](./screenshots/directory.png "Directory")
+![alt text](./screenshots/directory2.png "Directory2")
+![alt text](./screenshots/sort.png "Sort")
+![alt text](./screenshots/sort2.png "Sort2")
+![alt text](./screenshots/search.png "Search")
 
 # Test
   * Pages navigation tests were done. 
