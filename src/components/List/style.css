@@ -1,7 +1,13 @@
 .list-group-item {
-margin-left: 50px;
+position: relative;
+padding-left: 250px;
 }
 
+.list-group {
+   position: relative;
+   padding-left: 250px;
+   }
+   
 .img-fluid {
    width: 20px; 
    height: 20px;

@@ -21,13 +21,6 @@ const employeeArraysearch = [
 ];
 
 
-
-
-
-
-
-
-
 function Search() {
 
   const [thename, setThename] = useState("");
@@ -40,9 +33,9 @@ function Search() {
 
   };
   
-const getFiltered = () => {
-  return employeeArraysearch.filter(employee => employee.name == thename)
-  }
+  const getFiltered = () => {
+    return employeeArraysearch.filter(employee => employee.name == thename)
+    }
 
 
   return (
