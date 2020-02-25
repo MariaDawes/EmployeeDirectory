@@ -17,12 +17,19 @@ When the app loads, a cover page renders with a navigations bar with links to th
   * Filter the users by full name (needs to be the exact full name). 
 
 # URL to the Github repository
-
+https://github.com/MariaDawes/EmployeeDirectory
 
 # URL to the Deployed site
 
 
 # Screenshots
+![alt text] (./screenshots/firstpage.png "FirstPage")
+![alt text] (./screenshots/directory.png "FirstPage")
+![alt text] (./screenshots/directory2.png "FirstPage")
+![alt text] (./screenshots/sort.png "FirstPage")
+![alt text] (./screenshots/sort2.png "FirstPage")
+![alt text] (./screenshots/search.png "FirstPage")
+
 
 
 # Test
