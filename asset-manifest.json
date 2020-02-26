@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MariaDawes.github.io/EmployeeDirectory/static/css/main.0b24f782.chunk.css",
+    "main.js": "/MariaDawes.github.io/EmployeeDirectory/static/js/main.02f28086.chunk.js",
+    "main.js.map": "/MariaDawes.github.io/EmployeeDirectory/static/js/main.02f28086.chunk.js.map",
+    "runtime-main.js": "/MariaDawes.github.io/EmployeeDirectory/static/js/runtime-main.9f7cf712.js",
+    "runtime-main.js.map": "/MariaDawes.github.io/EmployeeDirectory/static/js/runtime-main.9f7cf712.js.map",
+    "static/js/2.0f168428.chunk.js": "/MariaDawes.github.io/EmployeeDirectory/static/js/2.0f168428.chunk.js",
+    "static/js/2.0f168428.chunk.js.map": "/MariaDawes.github.io/EmployeeDirectory/static/js/2.0f168428.chunk.js.map",
+    "index.html": "/MariaDawes.github.io/EmployeeDirectory/index.html",
+    "precache-manifest.5d93ee8d982e157213e52878c2138358.js": "/MariaDawes.github.io/EmployeeDirectory/precache-manifest.5d93ee8d982e157213e52878c2138358.js",
+    "service-worker.js": "/MariaDawes.github.io/EmployeeDirectory/service-worker.js",
+    "static/css/main.0b24f782.chunk.css.map": "/MariaDawes.github.io/EmployeeDirectory/static/css/main.0b24f782.chunk.css.map",
+    "static/js/2.0f168428.chunk.js.LICENSE.txt": "/MariaDawes.github.io/EmployeeDirectory/static/js/2.0f168428.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f7cf712.js",
+    "static/js/2.0f168428.chunk.js",
+    "static/css/main.0b24f782.chunk.css",
+    "static/js/main.02f28086.chunk.js"
+  ]
+}
