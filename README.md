@@ -20,7 +20,7 @@ When the app loads, a cover page renders with a navigations bar with links to th
 https://github.com/MariaDawes/EmployeeDirectory
 
 # URL to the Deployed site
-
+https://mariadawes.github.io/EmployeeDirectory/
 
 # Screenshots
 ![alt text](./src/screenshots/firstpage.png "FirstPage")
